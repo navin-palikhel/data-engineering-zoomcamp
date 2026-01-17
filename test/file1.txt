@@ -1,0 +1,5 @@
+Hello from host: > file1.txt
+ls
+exit
+touch file1.txt file2.txt file3.txt
+echo Hello from host:
